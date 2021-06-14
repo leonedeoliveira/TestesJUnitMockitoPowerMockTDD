@@ -1,0 +1,14 @@
+E:\TestesUnitarios\src\main\java\br\com\leone\entidades\Locacao.java
+E:\TestesUnitarios\src\main\java\br\com\leone\exceptions\FilmeSemEstoqueException.java
+E:\TestesUnitarios\src\main\java\br\com\leone\Start.java
+E:\TestesUnitarios\src\main\java\br\com\leone\dao\LocacaoDAO.java
+E:\TestesUnitarios\src\main\java\br\com\leone\servicos\SPCService.java
+E:\TestesUnitarios\src\main\java\br\com\leone\servicos\EmailService.java
+E:\TestesUnitarios\src\main\java\br\com\leone\entidades\Filme.java
+E:\TestesUnitarios\src\main\java\br\com\leone\dao\LocacaoDAAFake.java
+E:\TestesUnitarios\src\main\java\br\com\leone\servicos\LocacaoService.java
+E:\TestesUnitarios\src\main\java\br\com\leone\servicos\Calculadora.java
+E:\TestesUnitarios\src\main\java\br\com\leone\utils\DataUtils.java
+E:\TestesUnitarios\src\main\java\br\com\leone\exceptions\NaoPodeDividirPorZeroException.java
+E:\TestesUnitarios\src\main\java\br\com\leone\exceptions\LocadoraException.java
+E:\TestesUnitarios\src\main\java\br\com\leone\entidades\Usuario.java

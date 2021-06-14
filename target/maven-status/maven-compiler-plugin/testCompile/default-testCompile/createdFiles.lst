@@ -1,0 +1,16 @@
+br\com\leone\runner\ParallelRunner.class
+AssertTest.class
+br\com\leone\runner\ParallelRunner$TheadPoll.class
+br\com\leone\servicos\LocacaoServiceTest_PowerMock.class
+br\com\leone\builders\UsuarioBuilder.class
+br\com\leone\servicos\CalculadoraMockTest.class
+br\com\leone\builders\LocacaoBuilder.class
+br\com\leone\servicos\CalculoValorLocacaoTest.class
+br\com\leone\servicos\LocacaoServiceTest.class
+OrdemTest.class
+br\com\leone\matchers\DiaSemanaMatcher.class
+br\com\leone\suites\SuiteExecucao.class
+br\com\leone\matchers\DataDiferencaDiasMatcher.class
+br\com\leone\servicos\CalculadoraTest.class
+br\com\leone\builders\FilmeBuilder.class
+br\com\leone\matchers\MatchersProprios.class

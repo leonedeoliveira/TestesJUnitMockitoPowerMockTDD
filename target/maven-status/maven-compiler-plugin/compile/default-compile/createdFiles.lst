@@ -1,0 +1,14 @@
+br\com\leone\exceptions\FilmeSemEstoqueException.class
+br\com\leone\dao\LocacaoDAO.class
+br\com\leone\servicos\Calculadora.class
+br\com\leone\Start.class
+br\com\leone\dao\LocacaoDAAFake.class
+br\com\leone\servicos\EmailService.class
+br\com\leone\entidades\Filme.class
+br\com\leone\exceptions\LocadoraException.class
+br\com\leone\servicos\SPCService.class
+br\com\leone\utils\DataUtils.class
+br\com\leone\entidades\Usuario.class
+br\com\leone\entidades\Locacao.class
+br\com\leone\servicos\LocacaoService.class
+br\com\leone\exceptions\NaoPodeDividirPorZeroException.class
